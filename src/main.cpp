@@ -52,6 +52,7 @@ int main() {
     RightMotor.spin(forward);
     wait(5, msec);
   }
+  return 0;
 }
 
 void controller_L1_Pressed() {
