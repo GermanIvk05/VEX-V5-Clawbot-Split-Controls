@@ -10,6 +10,6 @@ This is a ready to use split control system in C++ for VEXcode Pro V5. It functi
 5. Upload the sketch and you are all set!!!
  
  ## Download
-[VEX-V5-Clawbot-Split-Controls-main.zip](https://github.com/GermanIvk05/VEX-V5-Clawbot-Split-Controls/files/7405913/VEX-V5-Clawbot-Split-Controls-main.zip)
+[VEX-V5-Clawbot-Split-Controls.zip](https://github.com/GermanIvk05/VEX-V5-Clawbot-Split-Controls/files/7663436/VEX-V5-Clawbot-Split-Controls.zip)
 
 **Full Changelog**: https://github.com/GermanIvk05/VEX-V5-Clawbot-Split-Controls/commits/v1.0.0
