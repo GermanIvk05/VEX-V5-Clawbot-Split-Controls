@@ -3,7 +3,7 @@
 /*    Module:       main.cpp                                                  */
 /*    Author:       GermanIvk05                                               */
 /*    Created:      Mon Sep 20 2021                                           */
-/*    Description:  Slit controls for VEX Clawbot                             */
+/*    Description:  Split controls for VEX Clawbot                            */
 /*                                                                            */
 /*----------------------------------------------------------------------------*/
 
